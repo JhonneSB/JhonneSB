@@ -8,10 +8,6 @@
   Estudante de Desenvolvimento de Sistemas | Foco em Java & Spring Boot 🚀
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDUzOWRiZDg5YjY1ODVjYjVhNDIxZTg3OGViZTg2ZTMyMTU4MmZkMyZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="250px">
-</p>
-
 ---
 
 ## 🚀 Tecnologias que utilizo
