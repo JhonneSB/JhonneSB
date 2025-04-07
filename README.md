@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Estudante de Desenvolvimento de Sistemas <br>
+  Estudante Técnico de Desenvolvimento de Sistemas <br>
   Apaixonado por aprender e evoluir todos os dias 🌱
 </p>
 
@@ -27,7 +27,7 @@
 
 ## 🛠 Sobre mim
 
-- 🎓 Estudante no SENAI - Desenvolvimento de Sistemas
+- 🎓 Estudante no SENAI - Técnico em Desenvolvimento de Sistemas
 - 💼 Estagiário na Engenharia de Processos (Krah - Timbó/SC)
 - 👨‍💻 Java & Spring Boot em evolução
 - ✉️ Contato: carlosjhonne7@gmail.com
@@ -48,7 +48,7 @@
 
 ## 🌐 Redes Sociais
 
-- [LinkedIn](https://www.linkedin.com)
+- [LinkedIn](https://www.linkedin.com/in/carlos-jhonne-8096a42a5/)
 - [Email](mailto:carlosjhonne7@gmail.com)
 
 ---
@@ -58,5 +58,5 @@
 </p>
 
 <div align="center">
-Feito com carinho e simplicidade por eu mesmo
+Feito com carinho por eu mesmo!
 </div>
