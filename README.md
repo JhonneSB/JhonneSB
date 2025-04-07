@@ -1,5 +1,5 @@
 
-<h1 align="center">Olá, eu sou o Carlos Jhonne! 👋</h1>
+<h1 align="center">Olá, eu sou o Carlos! 👋</h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100px">
@@ -33,7 +33,7 @@
 ## 📫 Contato
 
 - 📧 carlosjhonne7@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/carlos-jhonne-8096a42a5/)
 
 ---
 
@@ -42,5 +42,5 @@
 </p>
 
 <div align="center">
-Feito com ❤️ por Carlos Jhonne
+Feito com ❤️ por eu mesmo!
 </div>
