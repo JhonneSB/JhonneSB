@@ -1,33 +1,54 @@
-<!-- Gif fofo aqui -->
-# Olá, eu sou o Carlos Jhonne 👋
+<h1 align="center">Olá, eu sou o Jhonne! 👋</h1>
 
-Desenvolvedor Java focado em qualidade, boas práticas e projetos realmente úteis.
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100px">
+</p>
 
-<!-- Badges das linguagens -->
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+<p align="center">
+  Estudante de Desenvolvimento de Sistemas | Foco em Java & Spring Boot 🚀
+</p>
 
-<!-- Gif fofo no meio -->
-
-## Sobre Mim
-Apaixonado por desenvolvimento Java, estudando Spring Boot com padrão de projetos MVC e sempre buscando evoluir.
-
-- Estudante de Desenvolvimento de Sistemas  
-- Estagiário na Engenharia de Processos - Krah  
-- Java Lover ☕  
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDUzOWRiZDg5YjY1ODVjYjVhNDIxZTg3OGViZTg2ZTMyMTU4MmZkMyZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="250px">
+</p>
 
 ---
 
-## Projetos em Destaque
-> Em breve...
+## 🚀 Tecnologias que utilizo
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50px"/>
+</div>
 
 ---
 
-## Contato
-✉️ carlosjhonne7@gmail.com
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjQ1YjQ5MjE3YzkxOGZhODQ3OTZhZDM5ZmEwOWQzYjc4NjNmOWM4OSZjdD1n/3o6ZtaO9BZHcOjmErm/giphy.gif" width="220px">
+</p>
 
-<!-- Estatísticas GitHub dark -->
-![Carlos Jhonne's GitHub stats](https://github-readme-stats.vercel.app/api?username=JhonneSB&show_icons=true&theme=dark)
+---
 
-<!-- Gif fofo final -->
+## 📊 GitHub Stats
 
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JhonneSB&show_icons=true&theme=tokyonight"/>
+</div>
+
+---
+
+## 📫 Contato
+
+- 📧 carlosjhonne7@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com)
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTExMmNhYjI5YzYzYjMxMTZjYmVmNTRlNGFiYjhmMmZkNzU1ZTIzMCZjdD1n/l3vR9O0lbk0FNGMoQ/giphy.gif" width="200px">
+</p>
+
+<div align="center">
+Feito com ❤️ por eu mesmo!
+</div>
