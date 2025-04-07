@@ -21,10 +21,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/l1J9wvdJgkUrjRm6Y/giphy.gif" width="70px">
-</p>
-
 ## 🛠 Sobre mim
 
 - 🎓 Estudante no SENAI - Técnico em Desenvolvimento de Sistemas
