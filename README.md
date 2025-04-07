@@ -6,7 +6,7 @@
 
 <p align="center">
   Estudante Técnico de Desenvolvimento de Sistemas <br>
-  Apaixonado por aprender e evoluir todos os dias 🌱
+  Focado em Java e SpringBoot 🌱
 </p>
 
 ---
