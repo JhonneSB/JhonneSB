@@ -27,7 +27,7 @@ Apaixonado por desenvolvimento Java, estudando Spring Boot com padrão de projet
 ✉️ carlosjhonne7@gmail.com
 
 <!-- Estatísticas GitHub dark -->
-![Carlos Jhonne's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosjhonne&show_icons=true&theme=dark)
+![Carlos Jhonne's GitHub stats](https://github-readme-stats.vercel.app/api?username=JhonneSB&show_icons=true&theme=dark)
 
 <!-- Gif fofo final -->
 
