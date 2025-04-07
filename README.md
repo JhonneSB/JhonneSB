@@ -1,46 +1,33 @@
+<!-- Gif fofo aqui -->
+# Olá, eu sou o Carlos Jhonne 👋
 
-<h1 align="center">Olá, eu sou o Carlos! 👋</h1>
+Desenvolvedor Java focado em qualidade, boas práticas e projetos realmente úteis.
 
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100px">
-</p>
+<!-- Badges das linguagens -->
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 
-<p align="center">
-  Estudante de Desenvolvimento de Sistemas | Foco em Java & Spring Boot 🚀
-</p>
+<!-- Gif fofo no meio -->
 
----
+## Sobre Mim
+Apaixonado por desenvolvimento Java, estudando Spring Boot com padrão de projetos MVC e sempre buscando evoluir.
 
-## 🚀 Tecnologias que utilizo
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50px"/>
-</div>
+- Estudante de Desenvolvimento de Sistemas  
+- Estagiário na Engenharia de Processos - Krah  
+- Java Lover ☕  
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JhonneSB&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonneSB&layout=compact&theme=tokyonight"/>
-</div>
+## Projetos em Destaque
+> Em breve...
 
 ---
 
-## 📫 Contato
+## Contato
+✉️ carlosjhonne7@gmail.com
 
-- 📧 carlosjhonne7@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/carlos-jhonne-8096a42a5/)
+<!-- Estatísticas GitHub dark -->
+![Carlos Jhonne's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosjhonne&show_icons=true&theme=dark)
 
----
+<!-- Gif fofo final -->
 
-<p align="center">
-  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="200px">
-</p>
-
-<div align="center">
-Feito com ❤️ por eu mesmo!
-</div>
