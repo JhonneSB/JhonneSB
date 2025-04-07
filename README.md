@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Carlos Jhonne! src="https://user-images.githubusercontent.com/100048908/212252636-1d20ada1-aa24-4fc5-b36c-67c1d694fd89.gif">  🧑‍💻</h1> 
+<h1 align="center">Olá, eu sou o Carlos Jhonne! <img align="center" alt="cathand-Js" height="30" width="40" src="https://user-images.githubusercontent.com/100048908/212252636-1d20ada1-aa24-4fc5-b36c-67c1d694fd89.gif">   🧑‍💻</h1> 
 
 <p align="center">
   <img src="https://media.giphy.com/media/ArLxZ4PebH2Ug/giphy.gif" width="80px">
