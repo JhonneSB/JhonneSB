@@ -1,44 +1,51 @@
-<h1 align="center">Carlos Jhonne</h1>
-
 <p align="center">
-Transformando café ☕ em código Java.
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:203A43&height=150&section=header&text=Carlos%20Jhonne&fontSize=40&fontAlign=center&animation=fadeIn" />
 </p>
 
----
+<h3 align="center">Seja bem-vindo(a) ao meu GitHub!</h3>
 
-### Sobre mim
+<div align="center">
+  
+  <a href="mailto:carlosjhonne7@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/carlos-jhonne-8096a42a5/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 
-• Técnico em Desenvolvimento de Sistemas (SENAI - 3/4)  
-• Estagiário em Engenharia de Processos na Krah (Timbó/SC)  
-• Focado em projetos Java com Spring Boot, buscando sempre evoluir.
-
----
-
-### Tecnologias que estudo
-
-<div style="display: inline_block">
-  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-  <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </div>
 
 ---
 
-### Contato
+## Sobre Mim
 
-[![Email](https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carlosjhonne7@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-jhonne-8096a42a5/)
-
----
-
-### GitHub Stats
-
-<p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=JhonneSB&show_icons=true&theme=tokyonight&hide_title=false"/>
-</p>
+Sou Carlos Jhonne, estudante de Desenvolvimento de Sistemas pelo SENAI (3/4) e do Ensino Médio.  
+Estagiário em Engenharia de Processos na Krah, apaixonado por tecnologia, dados e boas práticas de desenvolvimento.
 
 ---
 
-<p align="center">
-<span style="font-style: italic;">"Código limpo não é luxo, é respeito por quem vai ler."</span>
-</p>
+## Tecnologias que estudo e pratico
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="45px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45px" />
+</div>
+
+---
+
+## Estatísticas GitHub
+
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=JhonneSB&show_icons=true&theme=tokyonight&hide_title=true"/>
+</div>
+
+---
+
+<p align="center">🚀 Sempre buscando evoluir, um projeto de cada vez.</p>
+
