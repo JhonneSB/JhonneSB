@@ -12,7 +12,7 @@
   <a href="https://www.linkedin.com/in/carlos-jhonne-8096a42a5/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/">
+  <a href="https://www.instagram.com/carlos_jhonness/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 
