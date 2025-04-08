@@ -22,7 +22,7 @@
 
 ## Sobre Mim
 
-Sou Carlos Jhonne, estudante de Desenvolvimento de Sistemas pelo SENAI (3/4) e do Ensino Médio.  
+Me chamo Carlos Jhonne, estudante de Desenvolvimento de Sistemas pelo SENAI (3/4) e do Ensino Médio.  
 Estagiário em Engenharia de Processos na Krah, apaixonado por tecnologia, dados e boas práticas de desenvolvimento.
 
 ---
