@@ -38,10 +38,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="70px">
-</p>
-
 ## 🌐 Redes Sociais
 
 - [LinkedIn](https://www.linkedin.com/in/carlos-jhonne-8096a42a5/)
