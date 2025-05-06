@@ -46,6 +46,9 @@
 <div align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=JhonneSB&show_icons=true&theme=tokyonight&hide_title=true"/>
 </div>
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonneSB&layout=compact&langs_count=6&theme=tokyonight"/>
+</div>
 
 ---
 
