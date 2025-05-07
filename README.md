@@ -49,10 +49,6 @@
     <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonneSB&layout=compact&langs_count=6&theme=radical&border_radius=15" alt="Top Languages"/>
   </div>
 
-  <div align="center">
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=JhonneSB&theme=radical&border_radius=15" alt="GitHub Streak"/>
-  </div>
-
 </details>
 
 ---
