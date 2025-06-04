@@ -33,7 +33,7 @@
 ## Tecnologias que estudo e pratico
 
 <div align="center">
-  <a href="https://www.google.com/search?q=o+que+é+Java" target="_blank" style="text-decoration: none;">
+  <span href="https://www.google.com/search?q=o+que+é+Java" target="_blank" style="text-decoration: none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45px" title="Java" />
   </a>
   <a href="https://www.google.com/search?q=o+que+é+Spring+Framework" target="_blank" style="text-decoration: none;">
