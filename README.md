@@ -27,13 +27,28 @@
 - 🏭 Estagiário em Engenharia de Processos — Krah  
 - 💡 Apaixonado por tecnologia, processos e boas práticas de desenvolvimento  
 - 🚀 Em constante aprendizado e evolução profissional  
+
 ---
 
 ## Tecnologias que estudo e pratico
 
 <div align="center">
- <div align="center"> <a href="https://www.google.com/search?q=o+que+é+Java" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45px" title="Java" /> </a> <a href="https://www.google.com/search?q=o+que+é+Spring+Framework" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="45px" title="Spring Framework" /> </a> <a href="https://www.google.com/search?q=o+que+é+MySQL" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45px" title="MySQL" /> </a> <a href="https://www.google.com/search?q=o+que+é+HTML5" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45px" title="HTML5" /> </a> <a href="https://www.google.com/search?q=o+que+é+CSS3" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45px" title="CSS3" /> </a> </div>
-
+  <a href="https://www.google.com/search?q=o+que+é+Java" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45px" title="Java" />
+  </a>
+  <a href="https://www.google.com/search?q=o+que+é+Spring+Framework" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="45px" title="Spring Framework" />
+  </a>
+  <a href="https://www.google.com/search?q=o+que+é+MySQL" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45px" title="MySQL" />
+  </a>
+  <a href="https://www.google.com/search?q=o+que+é+HTML5" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45px" title="HTML5" />
+  </a>
+  <a href="https://www.google.com/search?q=o+que+é+CSS3" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45px" title="CSS3" />
+  </a>
+</div>
 
 ---
 
@@ -50,4 +65,3 @@
 ---
 
 <p align="center">🚀 Sempre buscando evoluir, um projeto de cada vez.</p>
-
