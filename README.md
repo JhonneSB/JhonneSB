@@ -38,7 +38,8 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="45px" title="Spring Framework" />
   </a>
   <a href="https://www.google.com/search?q=o+que+é+JPA+Java" target="_blank" style="text-decoration: none;">
-    <img src="https://img.icons8.com/external-flatarticons-blue-flatarticons/64/external-database-web-and-seo-flatarticons-blue-flatarticons.png" width="45px" title="JPA (Java Persistence API)" />
+     <img src="https://img.icons8.com/fluency/48/database.png" width="45px" title="JPA (Java Persistence API)" />
+  </a>
   </a>
   <a href="https://www.google.com/search?q=o+que+é+Thymeleaf" target="_blank" style="text-decoration: none;">
     <img src="https://www.thymeleaf.org/images/thymeleaf.png" width="45px" title="Thymeleaf" />
