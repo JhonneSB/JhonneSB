@@ -63,10 +63,7 @@
 <details>
   <summary><strong>📊 Ver Estatísticas GitHub</strong></summary>
 
-  <div align="center">
-    <img height="140em" src="https://github-readme-stats.vercel.app/api?username=JhonneSB&show_icons=true&theme=radical&border_radius=15&hide_title=true" alt="GitHub Stats"/>
-    <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonneSB&layout=compact&langs_count=6&theme=radical&border_radius=15" alt="Top Languages"/>
-  </div>
+ 
 
 </details>
 
