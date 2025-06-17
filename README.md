@@ -34,8 +34,8 @@
   <a href="https://www.google.com/search?q=o+que+é+Java" target="_blank" style="text-decoration: none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45px" title="Java" />
   </a>
-  <a href="https://www.google.com/search?q=o+que+é+Spring+Framework" target="_blank" style="text-decoration: none;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="45px" title="Spring Framework" />
+  <a href="https://www.google.com/search?q=o+que+é+Spring+Boot" target="_blank" style="text-decoration: none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="45px" title="Spring Boot" />
   </a>
   <a href="https://www.google.com/search?q=o+que+é+JPA+Java" target="_blank" style="text-decoration: none;">
      <img src="https://img.icons8.com/fluency/48/database.png" width="45px" title="JPA (Java Persistence API)" />
