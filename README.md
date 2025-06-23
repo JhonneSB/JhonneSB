@@ -23,7 +23,6 @@
 - 🎓 Estudante do Técnico em Desenvolvimento de Sistemas — SENAI (3/4)  
 - 🎒 Cursando o 3º ano do Ensino Médio  
 - 🏭 Estagiário em Engenharia de Processos — Krah  
-- 💡 Apaixonado por tecnologia, processos e boas práticas de desenvolvimento  
 - 🚀 Em constante aprendizado e evolução profissional  
 
 ---
