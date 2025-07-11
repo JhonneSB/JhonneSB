@@ -20,7 +20,7 @@
 
 ## Sobre Mim
 
-- 🎓 Estudante do Técnico em Desenvolvimento de Sistemas — SENAI (3/4)  
+- 🎓 Estudante do Técnico em Desenvolvimento de Sistemas — SENAI (4/4)  
 - 🎒 Cursando o 3º ano do Ensino Médio  
 - 🏭 Estagiário em Engenharia de Processos — Krah  
 - 🚀 Em constante aprendizado e evolução profissional  
