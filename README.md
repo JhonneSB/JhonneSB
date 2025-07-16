@@ -20,37 +20,48 @@
 
 ## 🧑‍💻 Sobre Mim
 
-- 🎓 Técnico em Desenvolvimento de Sistemas — **SENAI (4/4)**
-- 📚 3º ano do Ensino Médio  
-- 🏭 Estagiário em Engenharia de Processos — **Krah (multinacional automotiva)**
-- 💻 Apaixonado por tecnologia e desenvolvimento web
-- 🚀 Em constante evolução, com projetos reais e práticos
+- 🎓 Estudante do Técnico em Desenvolvimento de Sistemas — **SENAI (4/4)**
+- 📘 Cursando o **3º ano do Ensino Médio**
+- 🏭 Estagiário em Engenharia de Processos — **Krah**
+- 💻 Apaixonado por tecnologia, backend e desenvolvimento web
+- 🚀 Em constante aprendizado, um projeto por vez!
 
 ---
 
-## 🚀 Tecnologias que pratico
+## 🚀 Tecnologias que estudo e pratico
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45px" title="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="45px" title="Spring Boot" />
-  <img src="https://img.icons8.com/fluency/48/database.png" width="45px" title="JPA / Hibernate" />
-  <img src="https://www.thymeleaf.org/images/thymeleaf.png" width="45px" title="Thymeleaf" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45px" title="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45px" title="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45px" title="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45px" title="JavaScript" />
+  <a href="https://www.google.com/search?q=o+que+é+Java" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45px" title="Java" />
+  </a>
+  <a href="https://www.google.com/search?q=o+que+é+Spring+Boot" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="45px" title="Spring Boot" />
+  </a>
+  <a href="https://www.google.com/search?q=o+que+é+JPA+Java" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/database.png" width="45px" title="JPA (Java Persistence API)" />
+  </a>
+  <a href="https://www.google.com/search?q=o+que+é+Thymeleaf" target="_blank">
+    <img src="https://www.thymeleaf.org/images/thymeleaf.png" width="45px" title="Thymeleaf" />
+  </a>
+  <a href="https://www.google.com/search?q=o+que+é+MySQL" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45px" title="MySQL" />
+  </a>
+  <a href="https://www.google.com/search?q=o+que+é+HTML5" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45px" title="HTML5" />
+  </a>
+  <a href="https://www.google.com/search?q=o+que+é+CSS3" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45px" title="CSS3" />
+  </a>
+  <a href="https://www.google.com/search?q=o+que+é+JavaScript" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45px" title="JavaScript" />
+  </a>
 </div>
 
 ---
 
-## 🧩 Projetos em Destaque
-
-> *Este espaço será preenchido em breve com os principais projetos que estou desenvolvendo com Java Spring Boot, Thymeleaf e MySQL.*
-
----
-
 <details>
-  <summary><strong>📊 Estatísticas do GitHub</strong></summary>
+  <summary><strong>📊 Ver Estatísticas GitHub</strong></summary>
+  <br>
   <div align="center">
     <img height="140em" src="https://github-readme-stats.vercel.app/api?username=JhonneSB&show_icons=true&theme=radical&border_radius=15&hide_title=true" />
     <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonneSB&layout=compact&langs_count=6&theme=radical&border_radius=15" />
@@ -59,8 +70,14 @@
 
 ---
 
+## 🌟 Projetos em Destaque
+
+> ⚙️ *Em breve, projetos com backend em Java Spring Boot, frontend com Thymeleaf e banco MySQL estarão por aqui.*
+
+---
+
 <p align="center">
-  🐾 Obrigado por visitar!  
-  <br>  
-  <strong>“Persistência gera resultados.”</strong>  
+  🐾 Obrigado por visitar meu perfil!  
+  <br>
+  <strong>💡 "A evolução vem linha por linha de código."</strong>
 </p>
