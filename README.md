@@ -4,7 +4,7 @@
 
 <h3 align="center">👋 Seja bem-vindo(a) ao meu GitHub!</h3>
 
-<div align="center">
+<p align="center">
   <a href="mailto:carlosjhonne7@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
@@ -14,17 +14,17 @@
   <a href="https://www.instagram.com/carlos_jhonness/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-</div>
+</p>
 
 ---
 
-## 👨‍💻 Sobre Mim
+## 🧑‍💻 Sobre Mim
 
-- 🎓 Estudante Técnico em **Desenvolvimento de Sistemas** – SENAI (4/4)
-- 🎒 Cursando o **3º ano do Ensino Médio**
-- 🏭 Estagiário em **Engenharia de Processos** – Krah (Multinacional automotiva)
-- 💡 Apaixonado por tecnologia, sempre buscando novos aprendizados
-- 🚀 Em evolução constante, um projeto por vez!
+- 🎓 Técnico em Desenvolvimento de Sistemas — **SENAI (4/4)**
+- 📚 3º ano do Ensino Médio  
+- 🏭 Estagiário em Engenharia de Processos — **Krah (multinacional automotiva)**
+- 💻 Apaixonado por tecnologia e desenvolvimento web
+- 🚀 Em constante evolução, com projetos reais e práticos
 
 ---
 
@@ -43,8 +43,14 @@
 
 ---
 
+## 🧩 Projetos em Destaque
+
+> *Este espaço será preenchido em breve com os principais projetos que estou desenvolvendo com Java Spring Boot, Thymeleaf e MySQL.*
+
+---
+
 <details>
-  <summary><strong>📊 Ver Estatísticas do GitHub</strong></summary>
+  <summary><strong>📊 Estatísticas do GitHub</strong></summary>
   <div align="center">
     <img height="140em" src="https://github-readme-stats.vercel.app/api?username=JhonneSB&show_icons=true&theme=radical&border_radius=15&hide_title=true" />
     <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonneSB&layout=compact&langs_count=6&theme=radical&border_radius=15" />
@@ -53,10 +59,8 @@
 
 ---
 
-## ✨ Projetos em Destaque
-
-> *Este espaço será preenchido com seus melhores projetos em breve.*
-
----
-
-<p align="center">🐾 Obrigado por visitar! Vamos evoluindo um commit por vez :)</p>
+<p align="center">
+  🐾 Obrigado por visitar!  
+  <br>  
+  <strong>“Persistência gera resultados.”</strong>  
+</p>
