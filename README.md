@@ -61,11 +61,12 @@
 
 <div align="center">
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JhonneSB&show_icons=true&theme=dark)
-  
   "Debugging my life one commit at a time" 💻☕
 
   <div>
+    <a href="https://github.com/JhonneSB?tab=repositories">
+      <img src="https://img.shields.io/badge/Meus_Projetos-%2300C4CC?style=for-the-badge" alt="Repositórios">
+    </a>
     <a href="https://github.com/JhonneSB?tab=stars">
       <img src="https://img.shields.io/badge/Estrelas-%23FFD700?style=for-the-badge" alt="Stars">
     </a>
