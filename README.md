@@ -60,22 +60,19 @@
 ---
 
 <div align="center">
+  
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JhonneSB&show_icons=true&theme=dark)
+  
+  "Debugging my life one commit at a time" 💻☕
 
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JhonneSB&theme=dark&hide_border=true&fire=FF0000&ring=FFD700)
-  
-  "Código por dia mantém o tédio longe! 💻 | Café > Sono | Bug Hunter profissional 🐞" 
-  
   <div>
-    <img src="https://komarev.com/ghpvc/?username=JhonneSB&label=Pessoas%20que%20caíram%20aqui&color=purple&style=flat" alt="profile views"/> • 
     <a href="https://github.com/JhonneSB?tab=repositories">
-      <img src="https://img.shields.io/badge/Projetos%20Malucos-%E2%9C%A8-orange?style=flat" alt="Repositories">
-    </a> •
+      <img src="https://img.shields.io/badge/Meus_Projetos-%2300C4CC?style=for-the-badge" alt="Repositórios">
+    </a>
     <a href="https://github.com/JhonneSB?tab=stars">
-      <img src="https://img.shields.io/badge/Estrelas%20Ganhas-%F0%9F%8C%9F-yellow" alt="Total Stars">
+      <img src="https://img.shields.io/badge/Estrelas-%23FFD700?style=for-the-badge" alt="Stars">
     </a>
   </div>
-
-  ![Snake animation](https://github.com/JhonneSB/JhonneSB/blob/output/github-contribution-grid-snake.svg)
   
-  "Commitando como se não houvesse amanhã! (Sério, deadline é amanhã 😱)"
+  <p>⚡ Fun fact: Todo meu código funciona... no meu computador</p>
 </div>
