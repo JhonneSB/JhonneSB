@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center"> 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=3A7BD5&center=true&vCenter=true&width=500&lines=Seja+bem-vindo(a)+ao+meu+GitHub!;Desenvolvedor+Java+Spring+em+formação;Estudante+do+4º%2F4+semestres;Pronto+para+desafios+profissionais"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=3A7BD5&center=true&vCenter=true&width=500&lines=Transformando+código+em+soluções;Java+Spring+Boot+Developer;4º+Semestre+Concluído;Próxima+parada:+mercado+de+trabalho"/>
 </h1>
 
 <div align="center">
@@ -20,7 +20,7 @@
 - 🏭 **Experiência Profissional**: Estagiário em Engenharia de Processos na Krah
 - 🎯 **Objetivo**: Primeira oportunidade como Desenvolvedor Java Júnior
 - 📚 **Foco Atual**: Spring Boot, APIs REST e Banco de Dados
-- 🚀 **Diferencial**: Visão industrial + conhecimento técnico em desenvolvimento
+- 🚀 **Diferencial**: Combino visão industrial com expertise técnica
 
 ---
 
@@ -58,7 +58,7 @@
 ## 📊 GitHub Stats
 
 <details>
-  <summary>🔍 Ver estatísticas detalhadas</summary>
+  <summary>🔍 Minhas Estatísticas no GitHub</summary>
   
   <div align="center">
     <img height="165em" src="https://github-readme-stats.vercel.app/api?username=JhonneSB&show_icons=true&theme=default&hide_border=true&count_private=true"/>
@@ -70,9 +70,9 @@
 
 <div align="center">
   
-  ![Snake animation](https://github.com/JhonneSB/JhonneSB/blob/output/github-contribution-grid-snake.svg)
+  ![GitHub Contributions](https://raw.githubusercontent.com/JhonneSB/JhonneSB/main/profile-3d-contrib/profile-night-rainbow.svg)
   
-  "Formação técnica concluída, preparado para contribuir no mercado de trabalho!" 🚀
+  "Do SENAI para o mundo: código, crescimento e novas oportunidades!" ✨
   
-  <img src="https://komarev.com/ghpvc/?username=JhonneSB&label=Profile+Views&color=3A7BD5&style=flat" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=JhonneSB&label=Visitas+ao+perfil&color=3A7BD5&style=flat" alt="profile views"/>
 </div>
