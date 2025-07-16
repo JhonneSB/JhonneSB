@@ -52,18 +52,21 @@
   <summary>🔍 Minhas Estatísticas no GitHub</summary>
   
   <div align="center">
-    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=JhonneSB&show_icons=true&theme=default&hide_border=true&count_private=true"/>
-    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonneSB&layout=compact&theme=default&hide_border=true"/>
+    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=JhonneSB&show_icons=true&theme=dark&hide_border=true&count_private=true"/>
+    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonneSB&layout=compact&theme=dark&hide_border=true"/>
   </div>
 </details>
 
 ---
 
 <div align="center">
+
+  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JhonneSB&theme=github-dark&hide_border=true&area=true)
   
-  ![GitHub Contributions](https://raw.githubusercontent.com/JhonneSB/JhonneSB/main/profile-3d-contrib/profile-night-rainbow.svg)
+  "Transformando linhas de código em soluções inovadoras | SENAI ➔ Mundo Tech" 🚀
   
-  "Do SENAI para o mundo: código, crescimento e novas oportunidades!" ✨
-  
-  <img src="https://komarev.com/ghpvc/?username=JhonneSB&label=Visitas+ao+perfil&color=3A7BD5&style=flat" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=JhonneSB&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/> • 
+  <a href="https://wakatime.com/@JhonneSB">
+    <img src="https://wakatime.com/badge/user/JhonneSB.svg" alt="WakaTime stats">
+  </a>
 </div>
