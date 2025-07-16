@@ -61,17 +61,21 @@
 
 <div align="center">
 
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JhonneSB&theme=dark&hide_border=true)
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JhonneSB&theme=dark&hide_border=true&fire=FF0000&ring=FFD700)
   
-  "Transformando linhas de código em soluções inovadoras | SENAI ➔ Mundo Tech" 🚀
+  "Código por dia mantém o tédio longe! 💻 | Café > Sono | Bug Hunter profissional 🐞" 
   
   <div>
-    <img src="https://komarev.com/ghpvc/?username=JhonneSB&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/> • 
+    <img src="https://komarev.com/ghpvc/?username=JhonneSB&label=Pessoas%20que%20caíram%20aqui&color=purple&style=flat" alt="profile views"/> • 
     <a href="https://github.com/JhonneSB?tab=repositories">
-      <img src="https://img.shields.io/badge/Repositórios-{NÚMERO}-blue?style=flat" alt="Repositories">
+      <img src="https://img.shields.io/badge/Projetos%20Malucos-%E2%9C%A8-orange?style=flat" alt="Repositories">
     </a> •
     <a href="https://github.com/JhonneSB?tab=stars">
-      <img src="https://img.shields.io/github/stars/JhonneSB?color=yellow&label=Stars" alt="Total Stars">
+      <img src="https://img.shields.io/badge/Estrelas%20Ganhas-%F0%9F%8C%9F-yellow" alt="Total Stars">
     </a>
   </div>
+
+  ![Snake animation](https://github.com/JhonneSB/JhonneSB/blob/output/github-contribution-grid-snake.svg)
+  
+  "Commitando como se não houvesse amanhã! (Sério, deadline é amanhã 😱)"
 </div>
