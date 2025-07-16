@@ -61,12 +61,17 @@
 
 <div align="center">
 
-  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JhonneSB&theme=github-dark&hide_border=true&area=true)
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JhonneSB&theme=dark&hide_border=true)
   
   "Transformando linhas de código em soluções inovadoras | SENAI ➔ Mundo Tech" 🚀
   
-  <img src="https://komarev.com/ghpvc/?username=JhonneSB&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/> • 
-  <a href="https://wakatime.com/@JhonneSB">
-    <img src="https://wakatime.com/badge/user/JhonneSB.svg" alt="WakaTime stats">
-  </a>
+  <div>
+    <img src="https://komarev.com/ghpvc/?username=JhonneSB&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/> • 
+    <a href="https://github.com/JhonneSB?tab=repositories">
+      <img src="https://img.shields.io/badge/Repositórios-{NÚMERO}-blue?style=flat" alt="Repositories">
+    </a> •
+    <a href="https://github.com/JhonneSB?tab=stars">
+      <img src="https://img.shields.io/github/stars/JhonneSB?color=yellow&label=Stars" alt="Total Stars">
+    </a>
+  </div>
 </div>
