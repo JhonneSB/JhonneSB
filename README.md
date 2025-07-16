@@ -18,9 +18,7 @@
 
 - 🎓 **Formação Técnica**: 4º/4 semestres em Desenvolvimento de Sistemas - SENAI
 - 🏭 **Experiência Profissional**: Estagiário em Engenharia de Processos na Krah
-- 🎯 **Objetivo**: Primeira oportunidade como Desenvolvedor Java Júnior
 - 📚 **Foco Atual**: Spring Boot, APIs REST e Banco de Dados
-- 🚀 **Diferencial**: Combino visão industrial com expertise técnica
 
 ---
 
@@ -44,13 +42,6 @@
 **Banco de Dados**  
 <div>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" title="MySQL"/>
-</div>
-
-**Ferramentas**  
-<div>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" title="Git"/>
-  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" title="Eclipse IDE"/>
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" title="VS Code"/>
 </div>
 
 ---
