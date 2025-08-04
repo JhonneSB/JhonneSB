@@ -2,10 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a7bd5,100:00d2ff&height=150&section=header&text=Carlos%20Jhonne&fontSize=40&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=Técnico%20em%20Dev%20de%20Sistemas%20(SENAI)&descAlignY=60&descSize=20"/>
 </p>
 
-<h1 align="center"> 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=3A7BD5&center=true&vCenter=true&width=500&lines=Transformando+código+em+soluções;Java+Spring+Boot+Developer;3º+Semestre+Concluído;Próxima+parada:+mercado+de+trabalho"/>
-</h1>
-
 <div align="center">
   <a href="mailto:carlosjhonne7@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/carlos-jhonne/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
