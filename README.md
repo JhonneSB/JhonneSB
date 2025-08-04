@@ -18,7 +18,7 @@
 
 ---
 
-## 🛠 Stack Tecnológica
+## 🛠 Tecnologias
 
 **Backend**  
 <div>
