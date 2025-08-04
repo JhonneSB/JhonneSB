@@ -14,7 +14,7 @@
 
 - 🎓 **Formação Técnica**: 4º/4 semestres em Desenvolvimento de Sistemas - SENAI
 - 🏭 **Experiência Profissional**: Estagiário em Engenharia de Processos na Krah
-- 📚 **Foco Atual**: Spring Boot, APIs REST e Banco de Dados
+- 📚 **Foco Atual**: Desevolvimento de soluções web
 
 ---
 
