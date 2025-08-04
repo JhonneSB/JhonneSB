@@ -56,17 +56,5 @@
 ---
 
 <div align="center">
-  
-  "Debugging my life one commit at a time" 💻☕
-
-  <div>
-    <a href="https://github.com/JhonneSB?tab=repositories">
-      <img src="https://img.shields.io/badge/Meus_Projetos-%2300C4CC?style=for-the-badge" alt="Repositórios">
-    </a>
-    <a href="https://github.com/JhonneSB?tab=stars">
-      <img src="https://img.shields.io/badge/Estrelas-%23FFD700?style=for-the-badge" alt="Stars">
-    </a>
-  </div>
-  
   <p>⚡ Fun fact: Todo meu código funciona... no meu computador</p>
 </div>
