@@ -56,5 +56,5 @@
 ---
 
 <div align="center">
-  <p>⚡ Fun fact: Todo meu código funciona... no meu computador</p>
+  <p>⚡ Fun fact: Todo código funciona... no meu computador</p>
 </div>
