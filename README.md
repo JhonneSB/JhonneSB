@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a7bd5,100:00d2ff&height=150&section=header&text=Carlos%20Jhonne&fontSize=40&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=Técnico%20em%20Dev%20de%20Sistemas%20(SENAI)&descAlignY=60&descSize=20"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a7bd5,100:00d2ff&height=150&section=header&text=Carlos%20Jhonne&fontSize=40&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=Técnico%20em%20Dev%20de%20Sistemas%20&descAlignY=60&descSize=20"/>
 </p>
 
 <div align="center">
