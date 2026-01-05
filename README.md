@@ -47,9 +47,10 @@
   <summary>🔍 Minhas Estatísticas no GitHub</summary>
   
   <div align="center">
-    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=JhonneSB&show_icons=true&theme=dark&hide_border=true&count_private=true"/>
-    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonneSB&layout=compact&theme=dark&hide_border=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=JhonneSB&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=000000"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonneSB&layout=compact&theme=dark&hide_border=true&bg_color=000000"/>
   </div>
+
 </details>
 
 ---
