@@ -47,8 +47,9 @@
   <summary>🔍 Minhas Estatísticas no GitHub</summary>
   
   <div align="center">
-  <img src="https://github.com/JhonneSB/JhonneSB/blob/main/github-metrics.svg"/>
-  </div>
+  <img src="https://github-readme-stats.vercel.app/api?username=JhonneSB&show_icons=true&hide_border=true&theme=github_dark"/>
+</div>
+
 
 
 </details>
