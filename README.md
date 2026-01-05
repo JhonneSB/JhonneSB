@@ -46,9 +46,10 @@
 <details>
   <summary>🔍 Minhas Estatísticas no GitHub</summary>
   
-  <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonneSB&layout=compact&hide_border=true&theme=github_dark"/>
-  </div>
+<div align="center">
+  <img src="https://img.shields.io/github/followers/JhonneSB?style=for-the-badge&color=000000"/>
+  <img src="https://img.shields.io/github/stars/JhonneSB?style=for-the-badge&color=000000"/>
+</div>
 
 </details>
 
