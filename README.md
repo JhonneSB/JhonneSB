@@ -47,8 +47,8 @@
   <summary>🔍 Minhas Estatísticas no GitHub</summary>
   
 <div align="center">
-  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=JhonneSB&show_icons=true&hide_border=true&theme=github_dark&icon_color=58a6ff&title_color=58a6ff&text_color=c9d1d9"/>
-  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JhonneSB&layout=compact&hide_border=true&theme=github_dark&title_color=58a6ff&text_color=c9d1d9"/>
+  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=JhonneSB&show_icons=true&hide_border=true&theme=github_dark&bg_color=0d1117&icon_color=58a6ff&title_color=58a6ff&text_color=c9d1d9"/>
+  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JhonneSB&layout=compact&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
 </div>
 
 </details>
